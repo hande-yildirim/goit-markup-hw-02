@@ -128,7 +128,7 @@
 
 /* 3. Section Our Team Liste */
 
-.team-area { /* h2 etiketi */
+.team-area { /* h2 etiket Our Team*/
     background-color: #F4F4FD;
     color: #2E2F42;
     font-size: 36px;
@@ -167,7 +167,7 @@
 
 /* 4. Section Our Portfolio */
 
-.portfolio-area { /* h2 etiketi */
+.portfolio-area { /* h2 etiketi Our Portfolio */
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -180,7 +180,7 @@
     list-style-type: none;
 }
 
-.potfolio-list-name { /* h3 etiketleri */
+.portfolio-list-name { /* h3 etiketleri */
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
