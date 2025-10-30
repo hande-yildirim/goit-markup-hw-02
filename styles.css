@@ -12,7 +12,7 @@
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.5;
+  line-height: 1.16;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -70,16 +70,16 @@
 
 /* 1.Section Üyeler ve İçerik */
 
-.title-area {
+.title-area { /* h1 etiketi */
     background-color: #2E2F42;
     text-align: center;
 }
 
-.title-area {
+.title-text {
     font-family: "Roboto" sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.5;
+    line-height: 1.07;
     color: #FFFFFF;
     letter-spacing: 0.02em;
 }
@@ -117,10 +117,10 @@
     color: #434455;
 }
 
-.first-h3 {
+.first-h3 { /* h3 etiketleri */
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.5;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
@@ -128,12 +128,12 @@
 
 /* 3. Section Our Team Liste */
 
-.team-area {
+.team-area { /* h2 etiketi */
     background-color: #F4F4FD;
     color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.5;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
 }
@@ -142,10 +142,10 @@
     list-style-type: none;
 }
 
-.team-list-name {
+.team-list-name { /* h3 etiketleri */
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.5;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
@@ -167,10 +167,10 @@
 
 /* 4. Section Our Portfolio */
 
-.portfolio-area {
+.portfolio-area { /* h2 etiketi */
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.5;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
@@ -180,10 +180,10 @@
     list-style-type: none;
 }
 
-.potfolio-list-name {
+.potfolio-list-name { /* h3 etiketleri */
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.5;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
@@ -195,7 +195,7 @@
     letter-spacing: 0.02em;
     color: #434455;
 }
-/* 4. Section Our Portfolio */
+/* 4. Section Our Portfolio bitti */
 
 /* 5. Footer */
 
@@ -207,7 +207,7 @@
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.5;
+    line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
