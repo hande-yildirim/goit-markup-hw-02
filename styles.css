@@ -128,8 +128,17 @@
 
 /* 3. Section Our Team Liste */
 
-.team-area { /* h2 etiket Our Team*/
+.team-area {
     background-color: #F4F4FD;
+    color: #2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.team-area h2 { /* h2 etiket Our Team*/
     color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
@@ -167,7 +176,16 @@
 
 /* 4. Section Our Portfolio */
 
-.portfolio-area { /* h2 etiketi Our Portfolio */
+.portfolio-area {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+}
+
+.portfolio-area h2 { /* h2 etiketi Our Portfolio */
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
